@@ -1,0 +1,10 @@
+/config/config.yaml
+/config/config.dev.yaml
+/config/config.test.yaml
+/logs/
+/docs/
+.idea
+/certs/
+/app/protobuf
+sky-env.yaml
+scrm-sync-data
